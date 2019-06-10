@@ -1,0 +1,2 @@
+# STUPID-ASSIGNMENT
+WEB fundamentals
